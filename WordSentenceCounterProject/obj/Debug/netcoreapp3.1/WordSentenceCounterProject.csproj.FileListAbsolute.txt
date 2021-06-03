@@ -1,0 +1,11 @@
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.exe
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.deps.json
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.runtimeconfig.json
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.runtimeconfig.dev.json
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.dll
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\bin\Debug\netcoreapp3.1\WordSentenceCounterProject.pdb
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\obj\Debug\netcoreapp3.1\WordSentenceCounterProject.csprojAssemblyReference.cache
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\obj\Debug\netcoreapp3.1\WordSentenceCounterProject.AssemblyInfoInputs.cache
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\obj\Debug\netcoreapp3.1\WordSentenceCounterProject.AssemblyInfo.cs
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\obj\Debug\netcoreapp3.1\WordSentenceCounterProject.dll
+C:\Users\OGUZERG\source\repos\WordSentenceCounterProject\WordSentenceCounterProject\obj\Debug\netcoreapp3.1\WordSentenceCounterProject.pdb
